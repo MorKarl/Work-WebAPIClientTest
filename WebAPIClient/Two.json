@@ -1,0 +1,22 @@
+{
+    "supportedAuthenticationTypes": [
+        "string"
+    ],
+    "aad": {
+        "tenant": "string",
+        "audience": "string",
+        "notificationMessages": {}
+    },
+    "openId": {
+        "authorityUrl": "string",
+        "authorityDiscovery": "string",
+        "tenantId": "string",
+        "scopeName": "string",
+        "supportedAccssTokenTypes": [
+            "Jwt"
+        ],
+        "notificationMessages": {}
+    },
+    "notificationMessages": {}
+
+}
